@@ -1,0 +1,8 @@
+.logoContenedor{
+  display: flex;
+  justify-content: center;
+}
+.logo {
+  text-align: center;
+  width: 12rem;
+}
